@@ -3,3 +3,4 @@
 乌尔比安精二立绘.png filter=lfs diff=lfs merge=lfs -text
 斯卡蒂精二立绘.jpg filter=lfs diff=lfs merge=lfs -text
 乌尔比安新皮立绘.jpg filter=lfs diff=lfs merge=lfs -text
+.DS_Store
